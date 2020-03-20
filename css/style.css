@@ -704,15 +704,15 @@ a:hover {
 //--//-->   SERVICES
 ======================================*/
 
+.usability-report {
+  margin: 1% 33%;
+}
+
 .service-box {
   background-color: #fff;
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
-}
-
-.usability-report {
-  margin: 1% 33%;
 }
 
 .service-box:hover .ico-circle {
