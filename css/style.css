@@ -705,7 +705,8 @@ a:hover {
 ======================================*/
 
 .usability-report {
-  margin: 1% 33%;
+  position: relative;
+  left:35%;
 }
 
 .service-box {
