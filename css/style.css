@@ -711,6 +711,10 @@ a:hover {
   margin-bottom: 3rem;
 }
 
+.usability-report {
+  margin: 1% 33%;
+}
+
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
