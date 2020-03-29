@@ -704,6 +704,11 @@ a:hover {
 //--//-->   SERVICES
 ======================================*/
 
+.usability-report {
+  position: relative;
+  left:35%;
+}
+
 .service-box {
   background-color: #fff;
   padding: 2.5rem 1.3rem;
@@ -711,9 +716,6 @@ a:hover {
   margin-bottom: 3rem;
 }
 
-.usability-report {
-  margin: 1% 33%;
-}
 
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
@@ -803,7 +805,7 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #0078ff;
+  color: #000000;
 }
 
 .work-content .w-like {
@@ -821,6 +823,7 @@ a:hover {
 }
 
 .w-title {
+  color: #0078ff;
   font-size: 1.2rem;
 }
 
