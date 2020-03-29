@@ -716,7 +716,6 @@ a:hover {
   margin-bottom: 3rem;
 }
 
-
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
@@ -1251,7 +1250,6 @@ footer .credits a {
   .box-comments .list-comments .comment-author {
     font-size: 1.5rem;
   }
-}
 
 @media (min-width: 992px) {
   .testimonial-box .description {
